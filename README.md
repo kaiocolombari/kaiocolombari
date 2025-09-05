@@ -48,7 +48,7 @@
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Principais Projetos
 - 🔹 [**App Mobile de Exemplo**](https://github.com/kaiocolombari/EletroAgro) → Aplicativo desenvolvido em **React Native**
 - 🔹 [**API com Node.js**](https://github.com/kaiocolombari/PROJETO2) → API REST simples para aprendizado
 - 🔹 [**Sistema Acadêmico**](https://github.com/kaiocolombari/MobileBanco) → Projeto do curso técnico
@@ -57,10 +57,10 @@
 
 ## 🌐 Contato
 <p align="left">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <a href="https://wa.me/(16) 991507072" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:SEUEMAIL@EXEMPLO.COM">
+  <a href="mailto:kaiocolombari2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://SEU-PORTFOLIO.com" target="_blank">
