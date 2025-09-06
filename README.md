@@ -50,7 +50,7 @@
 
 ## 📂 Principais Projetos
 - 🔹 [**App Mobile de Exemplo**](https://github.com/kaiocolombari/EletroAgro) → Aplicativo desenvolvido em **React Native**
-- 🔹 [**API com Node.js**](https://github.com/kaiocolombari/PROJETO2) → API REST simples para aprendizado
+- 🔹 [**API com Python**](https://github.com/kaiocolombari/GraphPythonAPI) → API REST simples para aprendizado
 - 🔹 [**Sistema Acadêmico**](https://github.com/kaiocolombari/MobileBanco) → Projeto do curso técnico
 
 ---
