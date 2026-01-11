@@ -27,34 +27,6 @@
 </p>
 
 ---
-
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiocolombari&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kaiocolombari&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiocolombari&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
-<!-- GitHub Stats -->
-
-<!-- Streak -->
-
-<!-- Top Langs -->
-
-<!-- Trophies -->
-
----
-
-## 🏆 Troféus do GitHub
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaiocolombari&theme=tokyonight&row=1&column=6" alt="Troféus" />
-</p>
-
 ---
 
 ## 📂 Principais Projetos
