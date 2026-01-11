@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiocolombari&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=kaiocolombari&theme=tokyonight" />
 </p>
 
 <p align="center">
