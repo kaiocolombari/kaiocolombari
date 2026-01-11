@@ -27,7 +27,6 @@
 </p>
 
 ---
----
 
 ## 📂 Principais Projetos
 - 🔹 [**App Mobile de Exemplo**](https://github.com/kaiocolombari/EletroAgro) → Aplicativo desenvolvido em **React Native**
